@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Test1",
+    "owner": "Rushabh"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Threat1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
